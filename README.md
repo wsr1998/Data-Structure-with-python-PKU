@@ -5,6 +5,8 @@
 
 [2022年春季课堂实录](https://www.bilibili.com/video/BV1SR4y1V73V)
 
+[Online judge的网址](http://python.openjudge.cn/) 期末考可能会在这个网站里
+
 这里会先放上每个单元的测验和作业（因为课程结束后mooc上的课程不会开放）。但是这里不会和测验的答案放上来，请大家自己认真学习课程后完成。
 
 课内的ppt（包括mooc上的录播和线下课的ppt会稍后上传）。
