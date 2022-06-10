@@ -1,5 +1,7 @@
 # Data structure with python
-数据结构python版 北大陈斌老师的课 
+数据结构python版 北大陈斌老师的课
+
+学完辽，最后总分80分就拿了个及格QAQ。所有的课件和笔记会在整理后上传。测验期末考题的话就暂时不上传了。
 
 [mooc上的课程链接](https://www.icourse163.org/course/PKU-1206307812)
 
